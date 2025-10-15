@@ -6,12 +6,12 @@
 
 ## 🚀 About Me  
 
-I’m a passionate Full Stack & DevOps Engineer who thrives at the boundary of development, cloud, and infrastructure. I love automating systems, building scalable architectures, and bringing observability into everything I touch.
+I’m a passionate  DevOps Engineer who thrives at the boundary of development, cloud, and infrastructure. I love automating systems, building scalable architectures, and bringing observability into everything I touch.
 
 - 🔭 Currently working on **Cloud-native infrastructure, CI/CD pipelines, Monitoring & Observability**  
 - 🌱 Continuously learning **AI + DevOps integrations**, **Kubernetes advanced patterns**, and **Platform Engineering**  
 - 👯 Open to collaborating on **open-source DevOps / automation / cloud projects**  
-- 💬 Ask me about **Python, Django, Node.js, Docker, Kubernetes, Argo CD, Terraform, Ansible, Prometheus, Grafana, ELK**  
+- 💬 Ask me about **Python, Docker, Kubernetes, Argo CD, Terraform, Ansible, Prometheus, Grafana, ELK**  
 - ⚡ Fun fact: I write scripts to automate my life (sometimes they even work 😉)  
 
 ---
@@ -57,7 +57,6 @@ I’m a passionate Full Stack & DevOps Engineer who thrives at the boundary of d
 | **Mail Server Setup** | Complete email server with DKIM / SPF / DMARC | Postfix, DNS, AWS |
 | **Wellness Appointment Webapp** | Full stack web app for appointments & scheduling | Node.js, React, Docker, PostgreSQL |
 
-> ⚠️ *Make sure to replace the above project links with actual repo URLs.*
 
 ---
 
