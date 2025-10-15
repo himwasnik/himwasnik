@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Himanshu Wasnik (`himwasnik`)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00C2CB&lines=DevOps+Engineer;Cloud+%26+Platform+Engineer;Full+Stack+Developer;Monitoring+&+Automation;Always+Learning🚀)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00C2CB&lines=DevOps+Engineer;Cloud+%26+Platform+Engineer;Monitoring+&+Automation;Always+Learning🚀)
 
 ---
 
